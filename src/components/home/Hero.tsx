@@ -47,8 +47,8 @@ export function Hero() {
           variants={fadeUp}
           className="mx-auto mt-8 max-w-4xl text-balance text-center text-display-xl font-semibold text-foreground"
         >
-          I run and improve real websites —{" "}
-          <span className="text-gradient">with AI as my build partner.</span>
+          I got curious about a real website&rsquo;s problems —{" "}
+          <span className="text-gradient">and kept finding ways to fix them.</span>
         </motion.h1>
 
         <motion.p
@@ -58,10 +58,8 @@ export function Hero() {
           variants={fadeUp}
           className="mx-auto mt-8 max-w-2xl text-balance text-center text-lg leading-relaxed text-muted md:text-xl"
         >
-          I&rsquo;m a dental student who spent the past year running the operational
-          and product side of a live production website — UI/UX, SEO,
-          accessibility, CMS, deployment, and QA — directing AI tools to build
-          it, not pretending I coded it all alone.
+          I&rsquo;m a dental student. Building a real website pulled me in more
+          than I expected, and I&rsquo;ve kept at it ever since.
         </motion.p>
 
         <motion.div
