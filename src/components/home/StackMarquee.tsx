@@ -1,12 +1,12 @@
 const stack = [
-  "Curiosity",
-  "Problem Solving",
-  "Website Operations",
   "Product Thinking",
   "User Experience",
   "Accessibility",
-  "Quality",
-  "Follow-Through",
+  "Problem Solving",
+  "Continuous Learning",
+  "Attention to Detail",
+  "Website Operations",
+  "Curiosity",
 ];
 
 export function StackMarquee() {
