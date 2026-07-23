@@ -4,7 +4,7 @@ export const skillCategories: SkillCategory[] = [
   {
     title: "Web Operations & Infrastructure",
     description:
-      "Running the day-to-day technical side of a live website — from version control to deployment.",
+      "I keep the technical side of a live website running smoothly, so everything behind the scenes just works.",
     skills: [
       "Git & GitHub workflows",
       "Cloudflare deployment & DNS",
@@ -15,9 +15,9 @@ export const skillCategories: SkillCategory[] = [
     ],
   },
   {
-    title: "AI-Assisted Development",
+    title: "Technical Direction",
     description:
-      "Directing AI tools to plan, build, and debug real features — reviewing every output critically rather than accepting it blindly.",
+      "I make the calls on what gets built and whether it's actually right — the tools are just tools.",
     skills: [
       "AI-assisted coding workflows",
       "Prompt-driven feature planning",
@@ -29,7 +29,7 @@ export const skillCategories: SkillCategory[] = [
   {
     title: "Product & UX",
     description:
-      "Thinking about the site as a product — who uses it, where they get stuck, and what changes actually move the needle.",
+      "I think about the site like a product: who's using it, where they get stuck, what's actually worth fixing.",
     skills: [
       "Product thinking",
       "UI/UX improvements",
@@ -39,9 +39,9 @@ export const skillCategories: SkillCategory[] = [
     ],
   },
   {
-    title: "Content & Data Layer",
+    title: "Content Systems",
     description:
-      "Managing the systems that hold and serve a site's content and data.",
+      "If someone can update the site without texting me first, I've done my job.",
     skills: [
       "Sanity CMS (schemas & content modeling)",
       "Supabase (auth, database, integration)",
@@ -50,9 +50,9 @@ export const skillCategories: SkillCategory[] = [
     ],
   },
   {
-    title: "Quality, SEO & Accessibility",
+    title: "Website Health",
     description:
-      "Making sure a site is fast, findable, and usable by everyone — not just functional.",
+      "I keep a site healthy — fast, findable, and usable by everyone who lands on it.",
     skills: [
       "SEO optimization",
       "Accessibility (WCAG-aligned)",
