@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { ArrowRight, Mail } from "lucide-react";
+import { ArrowRight, Mail, Sparkles } from "lucide-react";
 import { Button } from "@/components/ui/Button";
 import { Container } from "@/components/ui/Container";
 
@@ -75,6 +75,17 @@ export function Hero() {
           <Button href="/contact" variant="secondary" size="lg" icon={<Mail className="h-4 w-4" />}>
             Contact Me
           </Button>
+        </motion.div>
+
+        <motion.div
+          initial="hidden"
+          animate="visible"
+          custom={4}
+          variants={fadeUp}
+          className="mx-auto mt-6 flex items-center justify-center gap-1.5 text-xs text-muted"
+        >
+          <Sparkles className="h-3.5 w-3.5 text-accent" strokeWidth={1.5} aria-hidden />
+          Always learning. Always improving.
         </motion.div>
       </Container>
     </section>
