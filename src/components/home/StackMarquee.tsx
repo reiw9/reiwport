@@ -1,13 +1,12 @@
 const stack = [
-  "Git & GitHub",
-  "Cloudflare",
-  "Supabase",
-  "Sanity CMS",
-  "SEO",
-  "Accessibility",
-  "AI-Assisted Development",
+  "Curiosity",
+  "Problem Solving",
+  "Website Operations",
   "Product Thinking",
-  "QA Testing",
+  "User Experience",
+  "Accessibility",
+  "Quality",
+  "Follow-Through",
 ];
 
 export function StackMarquee() {
@@ -22,7 +21,7 @@ export function StackMarquee() {
         aria-hidden
         className="pointer-events-none absolute inset-y-0 right-0 z-10 w-24 bg-gradient-to-l from-background to-transparent"
       />
-      <span className="sr-only">Tools and skills: {stack.join(", ")}</span>
+      <span className="sr-only">What this work is built on: {stack.join(", ")}</span>
       <div aria-hidden className="flex w-max animate-marquee gap-10">
         {items.map((item, i) => (
           <span
