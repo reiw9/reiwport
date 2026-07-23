@@ -1,7 +1,7 @@
 "use client";
 
 import { motion } from "framer-motion";
-import { ArrowRight, Mail, Sparkles } from "lucide-react";
+import { ArrowRight, Mail } from "lucide-react";
 import { Button } from "@/components/ui/Button";
 import { Container } from "@/components/ui/Container";
 
@@ -58,8 +58,8 @@ export function Hero() {
           variants={fadeUp}
           className="mx-auto mt-8 max-w-2xl text-balance text-center text-sm leading-relaxed text-muted md:text-base"
         >
-          I&rsquo;m a dental student. I keep coming back to this because I still
-          haven&rsquo;t run out of things I want to fix.
+          I&rsquo;m a dental student. I keep coming back to building websites
+          because I still haven&rsquo;t run out of things I want to improve.
         </motion.p>
 
         <motion.div
@@ -75,17 +75,6 @@ export function Hero() {
           <Button href="/contact" variant="secondary" size="lg" icon={<Mail className="h-4 w-4" />}>
             Contact Me
           </Button>
-        </motion.div>
-
-        <motion.div
-          initial="hidden"
-          animate="visible"
-          custom={4}
-          variants={fadeUp}
-          className="mx-auto mt-6 flex items-center justify-center gap-1.5 text-xs text-muted"
-        >
-          <Sparkles className="h-3.5 w-3.5 text-accent" strokeWidth={1.5} aria-hidden />
-          No fabricated metrics — every claim on this site is real.
         </motion.div>
       </Container>
     </section>
