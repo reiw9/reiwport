@@ -45,10 +45,10 @@ export function Hero() {
           animate="visible"
           custom={1}
           variants={fadeUp}
-          className="mx-auto mt-8 max-w-4xl text-balance text-center text-display-xl font-semibold text-foreground"
+          className="mx-auto mt-8 max-w-4xl text-balance text-center text-display-lg font-semibold text-foreground"
         >
-          I got curious about a real website&rsquo;s problems —{" "}
-          <span className="text-gradient">and kept finding ways to fix them.</span>
+          One real website sparked{" "}
+          <span className="text-gradient">a curiosity I didn&rsquo;t expect.</span>
         </motion.h1>
 
         <motion.p
