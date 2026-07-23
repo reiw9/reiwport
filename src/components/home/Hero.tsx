@@ -56,10 +56,10 @@ export function Hero() {
           animate="visible"
           custom={2}
           variants={fadeUp}
-          className="mx-auto mt-8 max-w-2xl text-balance text-center text-lg leading-relaxed text-muted md:text-xl"
+          className="mx-auto mt-8 max-w-2xl text-balance text-center text-sm leading-relaxed text-muted md:text-base"
         >
-          I&rsquo;m a dental student. Building a real website pulled me in more
-          than I expected, and I&rsquo;ve kept at it ever since.
+          I&rsquo;m a dental student. I keep coming back to this because I still
+          haven&rsquo;t run out of things I want to fix.
         </motion.p>
 
         <motion.div
