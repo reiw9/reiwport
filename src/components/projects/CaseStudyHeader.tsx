@@ -14,7 +14,7 @@ export function CaseStudyHeader() {
           className="inline-flex items-center gap-1.5 text-sm text-muted transition-colors hover:text-foreground"
         >
           <ArrowLeft className="h-3.5 w-3.5" />
-          All projects
+          Work
         </Link>
       </Reveal>
 

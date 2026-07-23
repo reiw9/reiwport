@@ -70,7 +70,7 @@ export function Hero() {
           className="mx-auto mt-11 flex flex-col items-center justify-center gap-4 sm:flex-row"
         >
           <Button href="/projects" size="lg" icon={<ArrowRight className="h-4 w-4" />}>
-            View Projects
+            View My Work
           </Button>
           <Button href="/contact" variant="secondary" size="lg" icon={<Mail className="h-4 w-4" />}>
             Contact Me

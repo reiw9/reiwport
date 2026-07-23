@@ -12,8 +12,8 @@ export function SkillsPreview() {
         <Reveal>
           <SectionHeading
             eyebrow="Capabilities"
-            title="Where I actually add value"
-            description="Not a software engineer — a technical operator who bridges product, AI-assisted execution, and day-to-day website health."
+            title="What I keep choosing to work on"
+            description="I connect product thinking, hands-on building, and the everyday work of keeping a site healthy."
           />
         </Reveal>
         <Reveal delay={0.1}>

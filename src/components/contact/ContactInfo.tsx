@@ -1,10 +1,9 @@
-import { Mail, MapPin, Github, Linkedin, Twitter, ArrowUpRight } from "lucide-react";
+import { Mail, MapPin, Github, Linkedin, ArrowUpRight } from "lucide-react";
 import { siteConfig } from "@/lib/site";
 
 const socials = [
   { label: "GitHub", href: siteConfig.social.github, icon: Github },
   { label: "LinkedIn", href: siteConfig.social.linkedin, icon: Linkedin },
-  { label: "X (Twitter)", href: siteConfig.social.twitter, icon: Twitter },
 ];
 
 export function ContactInfo() {

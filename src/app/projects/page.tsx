@@ -5,7 +5,7 @@ import { ProjectCard } from "@/components/projects/ProjectCard";
 import { projects } from "@/lib/data/projects";
 
 export const metadata: Metadata = {
-  title: "Projects",
+  title: "Work",
   description:
     "Case study of JC Dental — the real, production website where I led UI/UX, SEO, accessibility, CMS management, deployment, and QA.",
 };
@@ -15,7 +15,7 @@ export default function ProjectsPage() {
     <Section>
       <Reveal>
         <SectionHeading
-          eyebrow="Projects"
+          eyebrow="Work"
           title="One real project, treated properly"
           description="I'd rather show you one thing done honestly and in depth than a wall of half-finished demos."
         />

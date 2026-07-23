@@ -12,11 +12,11 @@ export function CTASection() {
         />
         <div className="relative">
           <h2 className="mx-auto max-w-xl text-balance text-display-sm font-semibold text-foreground">
-            Looking for someone who can own the operational side of your site?
+            Have a website that needs someone who&rsquo;ll stick with it?
           </h2>
           <p className="mx-auto mt-5 max-w-md text-balance text-muted">
-            Remote roles, freelance work, or a focused project — I&rsquo;m glad to
-            talk through what you need.
+            Remote roles, freelance work, or a focused project — I read every
+            message myself and reply personally.
           </p>
           <div className="mt-9 flex flex-col items-center justify-center gap-4 sm:flex-row">
             <Button href="/contact" size="lg" icon={<Mail className="h-4 w-4" />}>
@@ -28,7 +28,7 @@ export function CTASection() {
               size="lg"
               icon={<ArrowRight className="h-4 w-4" />}
             >
-              See the work
+              See my work
             </Button>
           </div>
         </div>

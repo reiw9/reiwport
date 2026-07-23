@@ -41,7 +41,7 @@ export const skillCategories: SkillCategory[] = [
   {
     title: "Content Systems",
     description:
-      "If someone can update the site without texting me first, I've done my job.",
+      "I build the systems behind a site's content — so the people using it can keep things updated themselves.",
     skills: [
       "Sanity CMS (schemas & content modeling)",
       "Supabase (auth, database, integration)",

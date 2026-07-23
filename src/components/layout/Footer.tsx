@@ -1,12 +1,11 @@
 import Link from "next/link";
-import { Github, Linkedin, Twitter, ArrowUpRight } from "lucide-react";
+import { Github, Linkedin, ArrowUpRight } from "lucide-react";
 import { navLinks, siteConfig } from "@/lib/site";
 import { Container } from "@/components/ui/Container";
 
 const socials = [
   { label: "GitHub", href: siteConfig.social.github, icon: Github },
   { label: "LinkedIn", href: siteConfig.social.linkedin, icon: Linkedin },
-  { label: "X (Twitter)", href: siteConfig.social.twitter, icon: Twitter },
 ];
 
 export function Footer() {
@@ -19,7 +18,8 @@ export function Footer() {
               {siteConfig.shortTitle}
             </p>
             <p className="mt-4 text-sm leading-relaxed text-muted">
-              {siteConfig.role}. Based in {siteConfig.location}, working remotely.
+              {siteConfig.role} based in {siteConfig.location}, working with
+              people wherever they are.
             </p>
             <a
               href={`mailto:${siteConfig.email}`}
@@ -72,8 +72,8 @@ export function Footer() {
 
         <div className="mt-16 flex flex-col-reverse items-start justify-between gap-4 border-t border-border pt-8 text-xs text-muted md:flex-row md:items-center">
           <p>
-            © {new Date().getFullYear()} {siteConfig.name}. Built with Next.js,
-            Tailwind CSS, and AI-assisted development.
+            © {new Date().getFullYear()} {siteConfig.name}. Built with Next.js
+            and Tailwind CSS.
           </p>
           <p>Designed and coordinated by {siteConfig.name}.</p>
         </div>

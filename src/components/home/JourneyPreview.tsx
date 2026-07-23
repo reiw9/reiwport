@@ -11,16 +11,16 @@ export function JourneyPreview() {
             An unusual path
           </p>
           <h2 className="mt-4 text-display-sm font-semibold text-balance text-foreground">
-            From the dental chair to the deploy button
+            From the clinic to the dashboard
           </h2>
         </div>
         <div className="flex flex-col justify-between gap-8">
           <p className="text-balance leading-relaxed text-muted">
             I&rsquo;m training to be a dentist, not a software engineer. But a year
             spent solving real problems on a real website — booking friction,
-            content bottlenecks, accessibility gaps — turned into a genuine
-            second skill set: directing AI-assisted development with the same
-            diagnostic discipline I use in clinic.
+            content bottlenecks, accessibility gaps — turned into a second
+            skill set: building real fixes with the same diagnostic
+            discipline I use in clinic.
           </p>
           <Link
             href="/about"
