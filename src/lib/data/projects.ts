@@ -6,9 +6,9 @@ export const projects: ProjectSummary[] = [
     title: "JC Dental",
     tagline: "Website operations & product improvements for a live dental clinic site",
     description:
-      "A production dental clinic website where I owned UI/UX, SEO, accessibility, CMS management, deployment, and QA over the course of a year — working hands-in-hand with AI tools.",
+      "A production dental clinic website where I own UI/UX, SEO, accessibility, CMS management, deployment, and QA — working hands-in-hand with AI tools.",
     role: "Website Operations & Product",
-    year: "2025 — Present",
+    year: "2026 — Present",
     tags: ["UI/UX", "SEO", "Accessibility", "Sanity CMS", "Supabase", "Cloudflare"],
     href: "/projects/jc-dental",
     featured: true,

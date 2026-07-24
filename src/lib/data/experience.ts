@@ -17,11 +17,11 @@ export const timeline: TimelineEntry[] = [
   },
   {
     id: "jc-dental",
-    period: "~1 Year · Ongoing",
+    period: "Present",
     title: "Website Operations — JC Dental",
     subtitle: "Independent, production website project",
     description:
-      "Over the past year, I've taken ownership of the operational and product side of a real, live dental clinic website — working alongside AI tools as my primary development partner, and making the judgment calls a purely automated process can't make on its own.",
+      "I've taken ownership of the operational and product side of a real, live dental clinic website — working alongside AI tools as my primary development partner, and making the judgment calls a purely automated process can't make on its own.",
     points: [
       "Drove UI/UX improvements and booking-flow refinements based on real usability issues",
       "Owned SEO and accessibility passes across the site",

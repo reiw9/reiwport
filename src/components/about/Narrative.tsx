@@ -9,17 +9,17 @@ const sections = [
   {
     index: "02",
     title: "How the project actually started",
-    body: "JC Dental needed real, ongoing attention — the kind a small live website always needs: things that were confusing for patients, content that was out of date, pages that weren't showing up in search. I started fixing what I could see, using AI tools to help me build and debug, and kept going because the problems kept being genuinely interesting.",
+    body: "A dental practice needed a real website. I said yes without really knowing what I was getting into, and somewhere between the first page and the hundredth small decision, I got hooked.",
   },
   {
     index: "03",
     title: "What clicked",
-    body: "A confusing booking flow and an unclear clinical symptom aren't that different to investigate: look at what's actually happening, isolate the variable that's causing it, make one change, and verify the result before moving to the next thing. That mindset — patient, methodical, evidence-first — is what let me get genuinely useful at this without a CS background.",
+    body: "Getting a booking flow to actually work and figuring out an unclear clinical symptom aren't that different to investigate: look at what's actually happening, isolate the variable that's causing it, make one change, and verify the result before moving to the next thing. That approach — patient, methodical, evidence-first — is what made me useful at this without a CS background.",
   },
   {
     index: "04",
     title: "Where that leaves me",
-    body: "I'm not going to market myself as a software engineer, because I'm not one. What I am is someone who can own the operational and product side of a website end-to-end — plan the fix, direct the AI-assisted build, verify it works, and document it — and I'd like to keep doing exactly that, professionally, alongside finishing dental school.",
+    body: "I'm not going to market myself as a software engineer, because I'm not one. What I am is someone who can take a website from an idea to something real and working — and keep it that way. I'd like to keep doing exactly that, professionally, alongside finishing dental school.",
   },
 ];
 

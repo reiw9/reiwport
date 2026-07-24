@@ -8,7 +8,7 @@ import { timeline } from "@/lib/data/experience";
 export const metadata: Metadata = {
   title: "Experience",
   description:
-    "A timeline of dental study, a year of independent website operations work on JC Dental, and ongoing project-driven learning.",
+    "A timeline of dental study, independent website operations work on JC Dental, and ongoing project-driven learning.",
 };
 
 export default function ExperiencePage() {

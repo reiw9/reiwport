@@ -3,7 +3,7 @@ export const jcDental = {
     title: "JC Dental",
     tagline: "Website operations & product work for a live dental clinic",
     role: "Website Operations & Product Coordination",
-    year: "2025 — Present",
+    year: "2026 — Present",
     status: "In production",
     links: {
       live: "#",
@@ -22,7 +22,7 @@ export const jcDental = {
   overview: {
     heading: "Overview",
     body: [
-      "JC Dental is a real, in-production website for a dental clinic — not a demo or a personal side-project built in isolation. For the past year I've worked on it as a website operator and product-minded collaborator: directing AI-assisted development, making UX and product calls, and handling the operational work that keeps a live site running for real patients.",
+      "JC Dental is a real, in-production website for a dental clinic — not a demo or a personal side-project built in isolation. I've worked on it as a website operator and product-minded collaborator: directing AI-assisted development, making UX and product calls, and handling the operational work that keeps a live site running for real patients.",
       "I'm not the sole engineer behind it, and I'm not a software engineer by training. My contribution sits at the intersection of product thinking, technical coordination, and hands-on execution — using AI tools as my primary development partner while owning the decisions, the quality bar, and the follow-through that AI alone can't provide.",
       "The work spanned the full lifecycle of a live product: UI/UX improvements, SEO, accessibility, CMS content modeling, Supabase integration, Cloudflare deployment, security auditing, performance work, and the QA and documentation that hold it all together.",
     ],

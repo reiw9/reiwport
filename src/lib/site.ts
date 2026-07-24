@@ -4,7 +4,7 @@ export const siteConfig = {
   shortTitle: "Tala Kayali",
   role: "Website operator",
   description:
-    "Dental student who spent the past year running website operations for a real production project — UI/UX, SEO, accessibility, CMS management, and technical coordination, built hands-in-hand with AI tools.",
+    "Dental student running website operations for a real production project — UI/UX, SEO, accessibility, CMS management, and technical coordination, built hands-in-hand with AI tools.",
   url: "https://tala-kayali.dev",
   email: "tala.kayali.09@gmail.com",
   location: "Turkey",

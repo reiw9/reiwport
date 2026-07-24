@@ -56,7 +56,7 @@ export function Hero() {
           animate="visible"
           custom={2}
           variants={fadeUp}
-          className="mx-auto mt-8 max-w-2xl text-balance text-center text-sm leading-relaxed text-muted md:text-base"
+          className="mx-auto mt-8 max-w-2xl text-balance text-center text-base leading-relaxed text-muted md:text-lg md:leading-relaxed"
         >
           I&rsquo;m a dental student. I keep coming back to building websites
           because I still haven&rsquo;t run out of things I want to improve.

@@ -11,7 +11,7 @@ import { jcDental } from "@/lib/data/jc-dental";
 export const metadata: Metadata = {
   title: "JC Dental — Case Study",
   description:
-    "A case study of JC Dental: the challenges, solutions, technologies, and lessons behind a year of website operations work on a live dental clinic site.",
+    "A case study of JC Dental: the challenges, solutions, technologies, and lessons behind hands-on website operations work on a live dental clinic site.",
 };
 
 export default function JCDentalPage() {

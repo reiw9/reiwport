@@ -8,15 +8,14 @@ export function AboutHero() {
         <p className="font-mono text-xs uppercase tracking-[0.2em] text-accent">
           About
         </p>
-        <h1 className="mt-5 text-balance text-display-lg font-semibold text-foreground">
+        <h1 className="mt-5 text-balance text-display-md font-semibold text-foreground">
           Dentistry taught me how to diagnose. Website work taught me how to
           ship.
         </h1>
         <p className="mt-7 max-w-xl text-balance text-lg leading-relaxed text-muted">
-          I&rsquo;m a 4th-year dental student. I&rsquo;m also, somewhat
-          unexpectedly, the person who spent the last year keeping a real
-          website healthy — its UX, its search visibility, its accessibility,
-          and its infrastructure.
+          I&rsquo;m a 4th-year dental student. I&rsquo;m also the person who
+          keeps a real website healthy — the kind of work most people only
+          notice when it stops happening.
         </p>
       </Reveal>
       <Reveal delay={0.1}>

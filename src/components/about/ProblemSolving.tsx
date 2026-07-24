@@ -20,7 +20,7 @@ const pairs = [
     icon: ClipboardCheck,
     step: "Treat",
     clinical: "Apply the specific, appropriate treatment — not a generic fix.",
-    technical: "Direct a targeted change with AI tooling, reviewing every step.",
+    technical: "Make the specific, targeted fix — not a generic patch — and check every step along the way.",
   },
   {
     icon: RefreshCw,
@@ -37,7 +37,7 @@ export function ProblemSolving() {
         <SectionHeading
           eyebrow="How I think"
           title="One diagnostic process, two very different rooms"
-          description="I didn't bring coding skills into dentistry — I brought a dentistry mindset into web work."
+          description="I didn't bring coding skills into web work. I brought the same diagnostic process I use in clinic."
         />
       </Reveal>
 
